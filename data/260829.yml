@@ -1,0 +1,58 @@
+about:
+  description: kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
+  license: MIT
+  homepage: https://github.com/sauljabin/kaskade
+  head: 327445d
+  archived: false
+  latestVersion: v4.0.7
+  collectedAt: 2026-08-29T07:27:04Z
+timeline:
+  created: 2021-09-15
+  lastCommit: 2026-08-29
+  lastRelease: 2026-03-02
+popularity:
+  star: 1023
+  watcher: 4
+  fork: 20
+  release: 43
+  contributor: 3
+  pullRequest: 2
+  issue: 53
+language:
+  Python: 318488
+  CSS: 3286
+  Dockerfile: 184
+totalLine: 321958
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 22
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 22
+  last180d:
+    since: 2026-03-02
+    release: 1
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 22
+  last360d:
+    since: 2025-09-03
+    release: 2
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 4
+    openIssue: 2
+    commit: 27
