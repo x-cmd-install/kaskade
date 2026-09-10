@@ -4,7 +4,7 @@
 
 kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
 
-![kaskade](https://repo.x-cmd.io/kaskade.svg)
+![kaskade](https://repo.x-cmd.io/kaskade.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,17 @@ x install kaskade
 - **最新版本**: `v5.0.0` (2026-09-05)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-09-05T19:06:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kaskade-5.0.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0-py3-none-any.whl) | 71.5 KiB | `other` |
+| [kaskade-5.0.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0.tar.gz) | 530.5 KiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 1,025 · **Fork**: 20 · **开放 issue**: 60 · **贡献者**: 3
+- **Star**: 1,026 · **Fork**: 20 · **开放 issue**: 60 · **贡献者**: 3
 
 ## 累计统计
 
@@ -72,4 +78,4 @@ kaskade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:35Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:21Z._
