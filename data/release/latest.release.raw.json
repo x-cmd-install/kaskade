@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 73209,
       "digest": "sha256:7665652443dd8b02a04a8110481673c83b914b1a04acb48b042ef5e961fe7524",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-05T19:06:48Z",
       "updated_at": "2026-09-05T19:06:49Z",
       "browser_download_url": "https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0-py3-none-any.whl"
