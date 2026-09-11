@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 47 | 0 | 5 | 5 | 57 |
-| last60d | 2026-07-12 | 1 | 47 | 0 | 5 | 5 | 57 |
-| 90d | 2026-06-12 | 1 | 47 | 0 | 6 | 5 | 57 |
-| last180d | 2026-03-14 | 1 | 47 | 0 | 6 | 5 | 57 |
-| 360d | 2025-09-15 | 3 | 49 | 0 | 7 | 6 | 62 |
-| last720d | 2024-09-20 | 12 | 54 | 0 | 14 | 7 | 143 |
+| 30d | 2026-08-12 | 1 | 47 | 0 | 5 | 5 | 57 |
+| last60d | 2026-07-13 | 1 | 47 | 0 | 5 | 5 | 57 |
+| 90d | 2026-06-13 | 1 | 47 | 0 | 6 | 5 | 57 |
+| last180d | 2026-03-15 | 1 | 47 | 0 | 6 | 5 | 57 |
+| 360d | 2025-09-16 | 3 | 49 | 0 | 7 | 6 | 62 |
+| last720d | 2024-09-21 | 12 | 54 | 0 | 14 | 7 | 143 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:50:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:42:57Z._
