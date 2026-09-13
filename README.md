@@ -14,11 +14,11 @@ x install kaskade
 
 ## Code insight
 
-Total: **21,044** lines of code across **75** files in the top 5 languages.
+Total: **21,039** lines of code across **75** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 16,506 | 5 | 2,409 | 54 |
+| Python | 16,535 | 5 | 2,415 | 54 |
 | Svg | 1,672 | 3 | 33 | 8 |
 | Css | 1,202 | 0 | 223 | 2 |
 | Json | 929 | 0 | 0 | 10 |
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 58 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 7 · **Commits**: 564
+- **Releases**: 44 · **Merged PRs**: 60 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 7 · **Commits**: 566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 48 | 0 | 5 | 6 | 58 |
-| last60d | 2026-07-13 | 1 | 48 | 0 | 5 | 6 | 58 |
-| 90d | 2026-06-13 | 1 | 48 | 0 | 6 | 6 | 58 |
-| last180d | 2026-03-15 | 1 | 48 | 0 | 6 | 6 | 58 |
-| 360d | 2025-09-16 | 3 | 50 | 0 | 8 | 6 | 63 |
-| last720d | 2024-09-21 | 12 | 55 | 0 | 15 | 7 | 144 |
+| 30d | 2026-08-14 | 1 | 50 | 0 | 5 | 6 | 60 |
+| last60d | 2026-07-15 | 1 | 50 | 0 | 5 | 6 | 60 |
+| 90d | 2026-06-15 | 1 | 50 | 0 | 6 | 6 | 60 |
+| last180d | 2026-03-17 | 1 | 50 | 0 | 6 | 6 | 60 |
+| 360d | 2025-09-18 | 3 | 52 | 0 | 8 | 6 | 65 |
+| last720d | 2024-09-23 | 12 | 57 | 0 | 15 | 7 | 146 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:14:38Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:57:29Z._
