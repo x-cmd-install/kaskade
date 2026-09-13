@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 543234,
       "digest": "sha256:f25df6ce659ca86be0d6b61ad3dfb383001caff6cc0650b0df50220089001a52",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-05T19:06:48Z",
       "updated_at": "2026-09-05T19:06:49Z",
       "browser_download_url": "https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0.tar.gz"
