@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/27 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,035 · **Forks**: 22 · **Open issues**: 61 · **Contributors**: 3
+- **Stars**: 1,038 · **Forks**: 22 · **Open issues**: 61 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 52 | 0 | 5 | 6 | 62 |
-| last60d | 2026-07-17 | 1 | 52 | 0 | 5 | 6 | 62 |
-| 90d | 2026-06-17 | 1 | 52 | 0 | 6 | 6 | 62 |
-| last180d | 2026-03-19 | 1 | 52 | 0 | 6 | 6 | 62 |
-| 360d | 2025-09-20 | 3 | 54 | 0 | 8 | 6 | 67 |
-| last720d | 2024-09-25 | 12 | 59 | 0 | 15 | 7 | 148 |
+| 30d | 2026-08-17 | 1 | 52 | 0 | 5 | 6 | 62 |
+| last60d | 2026-07-18 | 1 | 52 | 0 | 5 | 6 | 62 |
+| 90d | 2026-06-18 | 1 | 52 | 0 | 6 | 6 | 62 |
+| last180d | 2026-03-20 | 1 | 52 | 0 | 6 | 6 | 62 |
+| 360d | 2025-09-21 | 3 | 54 | 0 | 8 | 6 | 67 |
+| last720d | 2024-09-26 | 12 | 59 | 0 | 15 | 7 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:04:30Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:04:53Z._
