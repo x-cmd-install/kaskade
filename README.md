@@ -4,7 +4,7 @@
 
 kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
 
-![kaskade](https://repo.x-cmd.io/kaskade.svg)
+[![x-cmd/install — kaskade Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kaskade.svg)](https://x-cmd.com/install/kaskade)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,039 · **Forks**: 22 · **Open issues**: 61 · **Contributors**: 3
+- **Stars**: 1,039 · **Forks**: 21 · **Open issues**: 61 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 0 · **Closed issues**: 54 · **Open issues**: 7 · **Commits**: 568
+- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 2 · **Closed issues**: 54 · **Open issues**: 7 · **Commits**: 568
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 52 | 0 | 4 | 6 | 62 |
-| last60d | 2026-07-20 | 1 | 52 | 0 | 5 | 6 | 62 |
-| 90d | 2026-06-20 | 1 | 52 | 0 | 6 | 6 | 62 |
-| last180d | 2026-03-22 | 1 | 52 | 0 | 6 | 6 | 62 |
-| 360d | 2025-09-23 | 3 | 54 | 0 | 8 | 6 | 67 |
-| last720d | 2024-09-28 | 12 | 59 | 0 | 14 | 7 | 148 |
+| 30d | 2026-08-21 | 1 | 52 | 2 | 4 | 6 | 50 |
+| last60d | 2026-07-22 | 1 | 52 | 2 | 5 | 6 | 62 |
+| 90d | 2026-06-22 | 1 | 52 | 2 | 6 | 6 | 62 |
+| last180d | 2026-03-24 | 1 | 52 | 2 | 6 | 6 | 62 |
+| 360d | 2025-09-25 | 3 | 54 | 2 | 8 | 6 | 67 |
+| last720d | 2024-09-30 | 12 | 59 | 2 | 14 | 7 | 148 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:51:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:51Z._
