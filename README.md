@@ -14,11 +14,11 @@ x install kaskade
 
 ## Code insight
 
-Total: **21,061** lines of code across **75** files in the top 5 languages.
+Total: **21,307** lines of code across **75** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 16,543 | 5 | 2,417 | 54 |
+| Python | 16,789 | 5 | 2,447 | 54 |
 | Svg | 1,672 | 3 | 33 | 8 |
 | Css | 1,202 | 0 | 223 | 2 |
 | Json | 929 | 0 | 0 | 10 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.0.0` (2026-09-05)
-- **Last commit**: 2026-09-14
+- **Latest**: `v5.0.1` (2026-09-21)
+- **Last commit**: 2026-09-21
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,25 +52,25 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 62 · **Open PRs**: 2 · **Closed issues**: 55 · **Open issues**: 6 · **Commits**: 568
+- **Releases**: 45 · **Merged PRs**: 65 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 6 · **Commits**: 571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 52 | 2 | 5 | 5 | 50 |
-| last60d | 2026-07-23 | 1 | 52 | 2 | 6 | 5 | 62 |
-| 90d | 2026-06-23 | 1 | 52 | 2 | 7 | 5 | 62 |
-| last180d | 2026-03-25 | 1 | 52 | 2 | 7 | 5 | 62 |
-| 360d | 2025-09-26 | 3 | 54 | 2 | 9 | 5 | 67 |
-| last720d | 2024-10-01 | 12 | 59 | 2 | 15 | 6 | 148 |
+| 30d | 2026-08-23 | 2 | 55 | 0 | 5 | 5 | 53 |
+| last60d | 2026-07-24 | 2 | 55 | 0 | 6 | 5 | 65 |
+| 90d | 2026-06-24 | 2 | 55 | 0 | 7 | 5 | 65 |
+| last180d | 2026-03-26 | 2 | 55 | 0 | 7 | 5 | 65 |
+| 360d | 2025-09-27 | 4 | 57 | 0 | 9 | 5 | 70 |
+| last720d | 2024-10-02 | 13 | 62 | 0 | 15 | 6 | 151 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kaskade-5.0.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0-py3-none-any.whl) | 71.5 KiB | `other` |
-| [kaskade-5.0.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v5.0.0/kaskade-5.0.0.tar.gz) | 530.5 KiB | `native/unknown` |
+| [kaskade-5.0.1-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v5.0.1/kaskade-5.0.1-py3-none-any.whl) | 72.2 KiB | `other` |
+| [kaskade-5.0.1.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v5.0.1/kaskade-5.0.1.tar.gz) | 533.8 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:05:25Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:58:53Z._
