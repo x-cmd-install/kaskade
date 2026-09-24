@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/27 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 55 | 0 | 5 | 5 | 53 |
-| last60d | 2026-07-25 | 2 | 55 | 0 | 6 | 5 | 65 |
-| 90d | 2026-06-25 | 2 | 55 | 0 | 7 | 5 | 65 |
-| last180d | 2026-03-27 | 2 | 55 | 0 | 7 | 5 | 65 |
-| 360d | 2025-09-28 | 4 | 57 | 0 | 9 | 5 | 70 |
-| last720d | 2024-10-03 | 13 | 62 | 0 | 15 | 6 | 151 |
+| 30d | 2026-08-25 | 2 | 55 | 0 | 5 | 5 | 53 |
+| last60d | 2026-07-26 | 2 | 55 | 0 | 6 | 5 | 65 |
+| 90d | 2026-06-26 | 2 | 55 | 0 | 7 | 5 | 65 |
+| last180d | 2026-03-28 | 2 | 55 | 0 | 7 | 5 | 65 |
+| 360d | 2025-09-29 | 4 | 57 | 0 | 9 | 5 | 70 |
+| last720d | 2024-10-04 | 13 | 62 | 0 | 15 | 6 | 151 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:55:22Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:50:11Z._
