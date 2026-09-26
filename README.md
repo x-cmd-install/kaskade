@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.0.1` (2026-09-21)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,039 · **Forks**: 21 · **Open issues**: 74 · **Contributors**: 3
+- **Stars**: 1,039 · **Forks**: 21 · **Open issues**: 79 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 66 · **Open PRs**: 0 · **Closed issues**: 55 · **Open issues**: 19 · **Commits**: 572
+- **Releases**: 45 · **Merged PRs**: 69 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 22 · **Commits**: 575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 53 | 0 | 3 | 18 | 54 |
-| last60d | 2026-07-27 | 2 | 56 | 0 | 6 | 18 | 66 |
-| 90d | 2026-06-27 | 2 | 56 | 0 | 7 | 18 | 66 |
-| last180d | 2026-03-29 | 2 | 56 | 0 | 7 | 18 | 66 |
-| 360d | 2025-09-30 | 4 | 58 | 0 | 9 | 18 | 71 |
-| last720d | 2024-10-05 | 13 | 63 | 0 | 15 | 19 | 152 |
+| 30d | 2026-08-27 | 2 | 53 | 0 | 5 | 21 | 57 |
+| last60d | 2026-07-28 | 2 | 59 | 0 | 8 | 21 | 69 |
+| 90d | 2026-06-28 | 2 | 59 | 0 | 9 | 21 | 69 |
+| last180d | 2026-03-30 | 2 | 59 | 0 | 9 | 21 | 69 |
+| 360d | 2025-10-01 | 4 | 61 | 0 | 11 | 21 | 74 |
+| last720d | 2024-10-06 | 13 | 66 | 0 | 17 | 22 | 155 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:04:57Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:07:18Z._
