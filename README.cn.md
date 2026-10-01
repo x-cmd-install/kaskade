@@ -14,15 +14,15 @@ x install kaskade
 
 ## 代码洞察
 
-合计: **22,497** 行代码（覆盖前 5 种语言、共 **82** 个文件）。
+合计: **22,540** 行代码（覆盖前 5 种语言、共 **82** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 18,021 | 21 | 2,641 | 60 |
-| Svg | 1,609 | 2 | 36 | 9 |
+| Python | 18,066 | 21 | 2,649 | 60 |
+| Svg | 1,608 | 2 | 36 | 9 |
 | Css | 1,203 | 0 | 223 | 2 |
 | Json | 929 | 0 | 0 | 10 |
-| Html | 319 | 0 | 21 | 1 |
+| Html | 318 | 0 | 21 | 1 |
 
 ## OpenSSF Scorecard 评分
 
@@ -31,8 +31,8 @@ x install kaskade
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install kaskade
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 88 · **开放 PR**: 0 · **已关闭 issue**: 68 · **开放 issue**: 15 · **提交数**: 594
+- **发布数**: 47 · **已合并 PR**: 91 · **开放 PR**: 0 · **已关闭 issue**: 68 · **开放 issue**: 15 · **提交数**: 597
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 50 | 0 | 14 | 14 | 0 |
-| last60d | 2026-08-01 | 4 | 78 | 0 | 19 | 14 | 0 |
-| 90d | 2026-07-02 | 4 | 78 | 0 | 19 | 14 | 0 |
-| last180d | 2026-04-03 | 4 | 78 | 0 | 20 | 14 | 0 |
-| 360d | 2025-10-05 | 6 | 80 | 0 | 22 | 14 | 0 |
-| last720d | 2024-10-10 | 15 | 85 | 0 | 28 | 15 | 173 |
+| 30d | 2026-09-01 | 4 | 48 | 0 | 14 | 14 | 41 |
+| last60d | 2026-08-02 | 4 | 81 | 0 | 19 | 14 | 91 |
+| 90d | 2026-07-03 | 4 | 81 | 0 | 19 | 14 | 91 |
+| last180d | 2026-04-04 | 4 | 81 | 0 | 20 | 14 | 91 |
+| 360d | 2025-10-06 | 6 | 83 | 0 | 22 | 14 | 96 |
+| last720d | 2024-10-11 | 15 | 87 | 0 | 28 | 15 | 176 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ kaskade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:43:55Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:00:13Z._
