@@ -14,11 +14,11 @@ x install kaskade
 
 ## Code insight
 
-Total: **22,540** lines of code across **82** files in the top 5 languages.
+Total: **22,774** lines of code across **91** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 18,066 | 21 | 2,649 | 60 |
+| Python | 18,301 | 26 | 2,721 | 69 |
 | Svg | 1,608 | 2 | 36 | 9 |
 | Css | 1,203 | 0 | 223 | 2 |
 | Json | 929 | 0 | 0 | 10 |
@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.1.0` (2026-09-28)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 92 · **Open PRs**: 0 · **Closed issues**: 68 · **Open issues**: 15 · **Commits**: 598
+- **Releases**: 47 · **Merged PRs**: 98 · **Open PRs**: 0 · **Closed issues**: 71 · **Open issues**: 12 · **Commits**: 604
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 35 | 0 | 12 | 12 | 35 |
-| last60d | 2026-08-08 | 4 | 82 | 0 | 19 | 14 | 92 |
-| 90d | 2026-07-09 | 4 | 82 | 0 | 19 | 14 | 92 |
-| last180d | 2026-04-10 | 4 | 82 | 0 | 20 | 14 | 92 |
-| 360d | 2025-10-12 | 6 | 84 | 0 | 22 | 14 | 97 |
-| last720d | 2024-10-17 | 13 | 88 | 0 | 28 | 15 | 170 |
+| 30d | 2026-09-08 | 3 | 41 | 0 | 14 | 9 | 41 |
+| last60d | 2026-08-09 | 4 | 88 | 0 | 22 | 11 | 98 |
+| 90d | 2026-07-10 | 4 | 88 | 0 | 22 | 11 | 98 |
+| last180d | 2026-04-11 | 4 | 88 | 0 | 23 | 11 | 98 |
+| 360d | 2025-10-13 | 6 | 90 | 0 | 25 | 11 | 103 |
+| last720d | 2024-10-18 | 13 | 94 | 0 | 31 | 12 | 176 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:01:14Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:20:28Z._
