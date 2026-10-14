@@ -14,13 +14,13 @@ x install kaskade
 
 ## 代码洞察
 
-合计: **23,573** 行代码（覆盖前 5 种语言、共 **104** 个文件）。
+合计: **26,013** 行代码（覆盖前 5 种语言、共 **115** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 19,081 | 30 | 2,916 | 82 |
+| Python | 21,349 | 33 | 3,307 | 93 |
 | Svg | 1,608 | 2 | 36 | 9 |
-| Css | 1,220 | 0 | 228 | 2 |
+| Css | 1,383 | 0 | 266 | 2 |
 | Json | 929 | 0 | 0 | 10 |
 | Html | 318 | 0 | 21 | 1 |
 
@@ -30,7 +30,7 @@ x install kaskade
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install kaskade
 
 ## 流行度
 
-- **Star**: 1,041 · **Fork**: 22 · **开放 issue**: 88 · **贡献者**: 3
+- **Star**: 1,041 · **Fork**: 22 · **开放 issue**: 89 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 112 · **开放 PR**: 1 · **已关闭 issue**: 77 · **开放 issue**: 11 · **提交数**: 618
+- **发布数**: 47 · **已合并 PR**: 115 · **开放 PR**: 0 · **已关闭 issue**: 79 · **开放 issue**: 10 · **提交数**: 621
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 51 | 1 | 19 | 8 | 50 |
-| last60d | 2026-08-14 | 4 | 102 | 1 | 28 | 10 | 112 |
-| 90d | 2026-07-15 | 4 | 102 | 1 | 28 | 10 | 112 |
-| last180d | 2026-04-16 | 4 | 102 | 1 | 29 | 10 | 112 |
-| 360d | 2025-10-18 | 6 | 104 | 1 | 30 | 10 | 117 |
-| last720d | 2024-10-23 | 13 | 108 | 1 | 37 | 11 | 190 |
+| 30d | 2026-09-14 | 3 | 53 | 0 | 20 | 8 | 53 |
+| last60d | 2026-08-15 | 4 | 105 | 0 | 30 | 9 | 115 |
+| 90d | 2026-07-16 | 4 | 105 | 0 | 30 | 9 | 115 |
+| last180d | 2026-04-17 | 4 | 105 | 0 | 31 | 9 | 115 |
+| 360d | 2025-10-19 | 6 | 107 | 0 | 32 | 9 | 120 |
+| last720d | 2024-10-24 | 13 | 111 | 0 | 39 | 10 | 193 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ kaskade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T06:55:40Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:06:49Z._
