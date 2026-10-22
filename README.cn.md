@@ -14,15 +14,15 @@ x install kaskade
 
 ## 代码洞察
 
-合计: **29,443** 行代码（覆盖前 5 种语言、共 **131** 个文件）。
+合计: **31,396** 行代码（覆盖前 5 种语言、共 **136** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 24,787 | 46 | 3,840 | 109 |
-| Svg | 1,608 | 2 | 36 | 9 |
-| Css | 1,375 | 0 | 264 | 2 |
-| Json | 929 | 0 | 0 | 10 |
-| Html | 318 | 0 | 21 | 1 |
+| Python | 24,949 | 48 | 3,871 | 109 |
+| Svg | 3,313 | 2 | 60 | 13 |
+| Css | 1,384 | 0 | 264 | 2 |
+| Json | 949 | 0 | 0 | 11 |
+| Html | 375 | 0 | 10 | 1 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,7 +30,7 @@ x install kaskade
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,8 +42,8 @@ x install kaskade
 
 ## 发布
 
-- **最新版本**: `v5.1.0` (2026-09-28)
-- **最近提交**: 2026-10-20
+- **最新版本**: `v6.0.0rc1` (2026-09-28)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install kaskade
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 118 · **开放 PR**: 0 · **已关闭 issue**: 83 · **开放 issue**: 6 · **提交数**: 624
+- **发布数**: 48 · **已合并 PR**: 121 · **开放 PR**: 0 · **已关闭 issue**: 84 · **开放 issue**: 5 · **提交数**: 627
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 3 | 53 | 0 | 24 | 4 | 52 |
-| last60d | 2026-08-22 | 4 | 108 | 0 | 33 | 5 | 112 |
-| 90d | 2026-07-23 | 4 | 108 | 0 | 34 | 5 | 118 |
-| last180d | 2026-04-24 | 4 | 108 | 0 | 35 | 5 | 118 |
-| 360d | 2025-10-26 | 6 | 110 | 0 | 36 | 5 | 123 |
-| last720d | 2024-10-31 | 13 | 114 | 0 | 43 | 6 | 195 |
+| 30d | 2026-09-22 | 3 | 56 | 0 | 25 | 3 | 55 |
+| last60d | 2026-08-23 | 5 | 111 | 0 | 34 | 4 | 115 |
+| 90d | 2026-07-24 | 5 | 111 | 0 | 35 | 4 | 121 |
+| last180d | 2026-04-25 | 5 | 111 | 0 | 36 | 4 | 121 |
+| 360d | 2025-10-27 | 7 | 113 | 0 | 37 | 4 | 126 |
+| last720d | 2024-11-01 | 14 | 117 | 0 | 44 | 5 | 198 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ kaskade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T04:44:09Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T04:51:01Z._
