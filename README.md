@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 56 | 0 | 25 | 3 | 55 |
-| last60d | 2026-08-23 | 5 | 111 | 0 | 34 | 4 | 115 |
-| 90d | 2026-07-24 | 5 | 111 | 0 | 35 | 4 | 121 |
-| last180d | 2026-04-25 | 5 | 111 | 0 | 36 | 4 | 121 |
-| 360d | 2025-10-27 | 7 | 113 | 0 | 37 | 4 | 126 |
-| last720d | 2024-11-01 | 14 | 117 | 0 | 44 | 5 | 198 |
+| 30d | 2026-09-23 | 3 | 56 | 0 | 25 | 3 | 55 |
+| last60d | 2026-08-24 | 5 | 111 | 0 | 34 | 4 | 115 |
+| 90d | 2026-07-25 | 5 | 111 | 0 | 35 | 4 | 121 |
+| last180d | 2026-04-26 | 5 | 111 | 0 | 36 | 4 | 121 |
+| 360d | 2025-10-28 | 7 | 113 | 0 | 37 | 4 | 126 |
+| last720d | 2024-11-02 | 14 | 117 | 0 | 44 | 5 | 198 |
 
 ## Release assets
 
@@ -71,6 +71,14 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [kaskade-5.1.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v5.1.0/kaskade-5.1.0-py3-none-any.whl) | 75.1 KiB | `other` |
 | [kaskade-5.1.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v5.1.0/kaskade-5.1.0.tar.gz) | 571.0 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/kaskade). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `5.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:48:57Z._
