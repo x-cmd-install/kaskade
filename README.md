@@ -37,7 +37,7 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/sauljabin/kaskade>
-- **Homepage**: <https://sauljabin.github.io/kaskade/>
+- **Homepage**: <https://sauljabin.dev/kaskade/>
 - **License**: MIT
 
 ## Release
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 3 | 56 | 1 | 25 | 3 | 55 |
-| last60d | 2026-08-25 | 5 | 111 | 1 | 34 | 4 | 115 |
-| 90d | 2026-07-26 | 5 | 111 | 1 | 35 | 4 | 121 |
-| last180d | 2026-04-27 | 5 | 111 | 1 | 36 | 4 | 121 |
-| 360d | 2025-10-29 | 7 | 113 | 1 | 37 | 4 | 126 |
-| last720d | 2024-11-03 | 14 | 117 | 1 | 44 | 5 | 198 |
+| 30d | 2026-09-25 | 3 | 53 | 1 | 13 | 2 | 30 |
+| last60d | 2026-08-26 | 5 | 108 | 1 | 32 | 4 | 76 |
+| 90d | 2026-07-27 | 5 | 111 | 1 | 35 | 4 | 121 |
+| last180d | 2026-04-28 | 5 | 111 | 1 | 36 | 4 | 121 |
+| 360d | 2025-10-30 | 7 | 113 | 1 | 37 | 4 | 126 |
+| last720d | 2024-11-04 | 14 | 117 | 1 | 44 | 5 | 198 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:42:30Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:41:08Z._
