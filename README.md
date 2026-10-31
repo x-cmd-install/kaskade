@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 135 · **Open PRs**: 0 · **Closed issues**: 84 · **Open issues**: 11 · **Commits**: 641
+- **Releases**: 48 · **Merged PRs**: 135 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 11 · **Commits**: 641
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 44 | 0 | 5 | 7 | 44 |
-| last60d | 2026-08-31 | 5 | 97 | 0 | 30 | 10 | 90 |
-| 90d | 2026-08-01 | 5 | 125 | 0 | 35 | 10 | 135 |
-| last180d | 2026-05-03 | 5 | 125 | 0 | 36 | 10 | 135 |
-| 360d | 2025-11-04 | 7 | 127 | 0 | 37 | 10 | 140 |
-| last720d | 2024-11-09 | 14 | 131 | 0 | 44 | 11 | 212 |
+| 30d | 2026-10-01 | 1 | 44 | 1 | 5 | 7 | 44 |
+| last60d | 2026-09-01 | 5 | 92 | 1 | 30 | 10 | 90 |
+| 90d | 2026-08-02 | 5 | 125 | 1 | 35 | 10 | 135 |
+| last180d | 2026-05-04 | 5 | 125 | 1 | 36 | 10 | 135 |
+| 360d | 2025-11-05 | 7 | 127 | 1 | 37 | 10 | 140 |
+| last720d | 2024-11-10 | 14 | 131 | 1 | 44 | 11 | 212 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:55:42Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:43Z._
