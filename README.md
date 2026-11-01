@@ -14,11 +14,11 @@ x install kaskade
 
 ## Code insight
 
-Total: **29,515** lines of code across **136** files in the top 5 languages.
+Total: **29,679** lines of code across **136** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,406 | 64 | 3,976 | 110 |
+| Python | 25,570 | 64 | 4,012 | 110 |
 | Css | 1,254 | 22 | 227 | 3 |
 | Svg | 998 | 2 | 44 | 9 |
 | Json | 950 | 0 | 0 | 12 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.0rc1` (2026-09-28)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-10-31
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 135 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 11 · **Commits**: 641
+- **Releases**: 48 · **Merged PRs**: 136 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 11 · **Commits**: 642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 44 | 1 | 5 | 7 | 44 |
-| last60d | 2026-09-01 | 5 | 92 | 1 | 30 | 10 | 90 |
-| 90d | 2026-08-02 | 5 | 125 | 1 | 35 | 10 | 135 |
-| last180d | 2026-05-04 | 5 | 125 | 1 | 36 | 10 | 135 |
-| 360d | 2025-11-05 | 7 | 127 | 1 | 37 | 10 | 140 |
-| last720d | 2024-11-10 | 14 | 131 | 1 | 44 | 11 | 212 |
+| 30d | 2026-10-02 | 1 | 45 | 1 | 5 | 7 | 30 |
+| last60d | 2026-09-02 | 5 | 86 | 1 | 30 | 10 | 79 |
+| 90d | 2026-08-03 | 5 | 126 | 1 | 35 | 10 | 136 |
+| last180d | 2026-05-05 | 5 | 126 | 1 | 36 | 10 | 136 |
+| 360d | 2025-11-06 | 7 | 127 | 1 | 37 | 10 | 139 |
+| last720d | 2024-11-11 | 14 | 132 | 1 | 43 | 11 | 213 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:43Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:07:00Z._
