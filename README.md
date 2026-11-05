@@ -14,12 +14,12 @@ x install kaskade
 
 ## Code insight
 
-Total: **29,679** lines of code across **136** files in the top 5 languages.
+Total: **30,037** lines of code across **136** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,570 | 64 | 4,012 | 110 |
-| Css | 1,254 | 22 | 227 | 3 |
+| Python | 25,918 | 65 | 4,073 | 110 |
+| Css | 1,261 | 22 | 228 | 3 |
 | Svg | 998 | 2 | 44 | 9 |
 | Json | 950 | 0 | 0 | 12 |
 | JavaScript | 292 | 16 | 27 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.0.0rc1` (2026-09-28)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 2
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 137 · **Open PRs**: 1 · **Closed issues**: 84 · **Open issues**: 11 · **Commits**: 643
+- **Releases**: 48 · **Merged PRs**: 140 · **Open PRs**: 1 · **Closed issues**: 86 · **Open issues**: 9 · **Commits**: 646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 46 | 1 | 5 | 7 | 31 |
-| last60d | 2026-09-05 | 5 | 80 | 1 | 27 | 9 | 80 |
-| 90d | 2026-08-06 | 5 | 127 | 1 | 35 | 10 | 137 |
-| last180d | 2026-05-08 | 5 | 127 | 1 | 36 | 10 | 137 |
-| 360d | 2025-11-09 | 6 | 128 | 1 | 37 | 10 | 140 |
-| last720d | 2024-11-14 | 14 | 133 | 1 | 43 | 10 | 214 |
+| 30d | 2026-10-06 | 1 | 48 | 1 | 7 | 5 | 34 |
+| last60d | 2026-09-06 | 4 | 83 | 1 | 29 | 7 | 83 |
+| 90d | 2026-08-07 | 5 | 130 | 1 | 37 | 8 | 140 |
+| last180d | 2026-05-09 | 5 | 130 | 1 | 38 | 8 | 140 |
+| 360d | 2025-11-10 | 6 | 131 | 1 | 39 | 8 | 143 |
+| last720d | 2024-11-15 | 14 | 136 | 1 | 45 | 8 | 217 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:22:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:43:22Z._
