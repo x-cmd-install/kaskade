@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,044 · **Forks**: 22 · **Open issues**: 95 · **Contributors**: 3
+- **Stars**: 1,044 · **Forks**: 23 · **Open issues**: 95 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 142 · **Open PRs**: 0 · **Closed issues**: 87 · **Open issues**: 8 · **Commits**: 648
+- **Releases**: 48 · **Merged PRs**: 142 · **Open PRs**: 1 · **Closed issues**: 87 · **Open issues**: 8 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 34 | 0 | 7 | 4 | 27 |
-| last60d | 2026-09-11 | 4 | 82 | 0 | 28 | 6 | 80 |
-| 90d | 2026-08-12 | 5 | 132 | 0 | 38 | 7 | 142 |
-| last180d | 2026-05-14 | 5 | 132 | 0 | 39 | 7 | 142 |
-| 360d | 2025-11-15 | 6 | 133 | 0 | 40 | 7 | 145 |
-| last720d | 2024-11-20 | 14 | 137 | 0 | 46 | 7 | 219 |
+| 30d | 2026-10-12 | 1 | 31 | 1 | 7 | 4 | 27 |
+| last60d | 2026-09-12 | 4 | 82 | 1 | 28 | 6 | 80 |
+| 90d | 2026-08-13 | 5 | 132 | 1 | 38 | 7 | 142 |
+| last180d | 2026-05-15 | 5 | 132 | 1 | 39 | 7 | 142 |
+| 360d | 2025-11-16 | 6 | 133 | 1 | 40 | 7 | 145 |
+| last720d | 2024-11-21 | 14 | 137 | 1 | 46 | 7 | 219 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:20:53Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:16:27Z._
