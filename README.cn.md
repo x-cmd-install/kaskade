@@ -14,7 +14,7 @@ x install kaskade
 
 ## 代码洞察
 
-合计: **31,158** 行代码（覆盖前 5 种语言、共 **137** 个文件）。
+合计: **31,160** 行代码（覆盖前 5 种语言、共 **137** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -42,8 +42,8 @@ x install kaskade
 
 ## 发布
 
-- **最新版本**: `v6.0.0rc1` (2026-09-28)
-- **最近提交**: 2026-11-09
+- **最新版本**: `v6.0.0` (2026-11-24)
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 2 个
 
 ## 流行度
@@ -52,25 +52,25 @@ x install kaskade
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 142 · **开放 PR**: 1 · **已关闭 issue**: 87 · **开放 issue**: 8 · **提交数**: 648
+- **发布数**: 49 · **已合并 PR**: 145 · **开放 PR**: 0 · **已关闭 issue**: 88 · **开放 issue**: 7 · **提交数**: 651
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 20 | 1 | 3 | 3 | 7 |
-| last60d | 2026-09-25 | 3 | 74 | 1 | 16 | 5 | 54 |
-| 90d | 2026-08-26 | 5 | 129 | 1 | 35 | 7 | 109 |
-| last180d | 2026-05-28 | 5 | 132 | 1 | 39 | 7 | 142 |
-| 360d | 2025-11-29 | 6 | 133 | 1 | 40 | 7 | 145 |
-| last720d | 2024-12-04 | 13 | 137 | 1 | 45 | 7 | 180 |
+| 30d | 2026-10-26 | 1 | 21 | 0 | 3 | 3 | 10 |
+| last60d | 2026-09-26 | 4 | 67 | 0 | 9 | 4 | 57 |
+| 90d | 2026-08-27 | 6 | 129 | 0 | 36 | 6 | 112 |
+| last180d | 2026-05-29 | 6 | 135 | 0 | 40 | 6 | 145 |
+| 360d | 2025-11-30 | 7 | 136 | 0 | 41 | 6 | 148 |
+| last720d | 2024-12-05 | 14 | 140 | 0 | 46 | 6 | 183 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kaskade-5.1.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v5.1.0/kaskade-5.1.0-py3-none-any.whl) | 75.1 KiB | `other` |
-| [kaskade-5.1.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v5.1.0/kaskade-5.1.0.tar.gz) | 571.0 KiB | `native/unknown` |
+| [kaskade-6.0.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v6.0.0/kaskade-6.0.0-py3-none-any.whl) | 143.7 KiB | `other` |
+| [kaskade-6.0.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v6.0.0/kaskade-6.0.0.tar.gz) | 687.9 KiB | `native/unknown` |
 
 ## 发行版状态
 
@@ -89,4 +89,4 @@ kaskade 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:12:50Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:38:44Z._
