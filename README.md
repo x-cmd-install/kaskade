@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 21 | 0 | 3 | 3 | 10 |
-| last60d | 2026-09-26 | 4 | 67 | 0 | 9 | 4 | 57 |
-| 90d | 2026-08-27 | 6 | 129 | 0 | 36 | 6 | 112 |
-| last180d | 2026-05-29 | 6 | 135 | 0 | 40 | 6 | 145 |
-| 360d | 2025-11-30 | 7 | 136 | 0 | 41 | 6 | 148 |
-| last720d | 2024-12-05 | 14 | 140 | 0 | 46 | 6 | 183 |
+| 30d | 2026-10-27 | 1 | 11 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 4 | 63 | 0 | 8 | 4 | 0 |
+| 90d | 2026-08-28 | 6 | 121 | 0 | 36 | 6 | 0 |
+| last180d | 2026-05-30 | 6 | 135 | 0 | 40 | 6 | 0 |
+| 360d | 2025-12-01 | 7 | 136 | 0 | 41 | 6 | 0 |
+| last720d | 2024-12-06 | 14 | 140 | 0 | 46 | 6 | 183 |
 
 ## Release assets
 
@@ -71,14 +71,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [kaskade-6.0.0-py3-none-any.whl](https://github.com/sauljabin/kaskade/releases/download/v6.0.0/kaskade-6.0.0-py3-none-any.whl) | 143.7 KiB | `other` |
 | [kaskade-6.0.0.tar.gz](https://github.com/sauljabin/kaskade/releases/download/v6.0.0/kaskade-6.0.0.tar.gz) | 687.9 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/kaskade). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `5.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -89,4 +81,4 @@ Install metadata for kaskade lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:38:43Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:21:17Z._
