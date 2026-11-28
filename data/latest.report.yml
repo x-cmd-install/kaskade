@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.0.0"
   latestRelease: "v6.0.0"
   latestPrerelease: "v6.0.0rc1"
-  collectedAt: 2026-11-27T08:44:44Z
+  collectedAt: 2026-11-28T07:51:06Z
 timeline:
   created: 2021-09-15
   lastCommit: 2026-11-26
@@ -20,7 +20,7 @@ popularity:
   fork: 22
   release: 49
   contributor: 3
-  pullRequest: 150
+  pullRequest: 151
   issue: 95
 language:
   Python: 1199102
@@ -30,63 +30,63 @@ language:
 totalBytes: 1270753
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 12
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 11
   last60d:
-    since: 2026-09-28
-    release: 3
+    since: 2026-09-29
+    release: 2
     mergedPR: 60
-    openPR: 0
+    openPR: 1
     closedIssue: 8
     openIssue: 4
     commit: 58
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 6
-    mergedPR: 118
-    openPR: 0
-    closedIssue: 35
+    mergedPR: 110
+    openPR: 1
+    closedIssue: 34
     openIssue: 6
     commit: 113
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 6
     mergedPR: 136
-    openPR: 0
+    openPR: 1
     closedIssue: 40
     openIssue: 6
     commit: 146
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 7
     mergedPR: 137
-    openPR: 0
+    openPR: 1
     closedIssue: 41
     openIssue: 6
     commit: 149
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 14
     mergedPR: 141
-    openPR: 0
+    openPR: 1
     closedIssue: 46
     openIssue: 6
     commit: 184
 total:
   release: 49
   mergedPR: 146
-  openPR: 0
+  openPR: 1
   closedIssue: 88
   openIssue: 7
   commit: 652
 ---
 path: /home/runner/.x-repo/github.com/sauljabin/kaskade
-collectedAt: 2026-11-27T08:44:45Z
+collectedAt: 2026-11-28T07:51:07Z
 loc:
   Python:
     code: 27059
